@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kutchies-xi",
+    "name": "Kutchies XI",
+    "players": [
+      { "id": "kxi-1", "name": "Kuda Zafevere" },
+      { "id": "kxi-2", "name": "Alois Munengwa" },
+      { "id": "kxi-3", "name": "James Mwandura" },
+      { "id": "kxi-4", "name": "Pagel Sabuneti" },
+      { "id": "kxi-5", "name": "Innocent Gwaimani" },
+      { "id": "kxi-6", "name": "Abraham Zisengwe" },
+      { "id": "kxi-7", "name": "Jignesh Chauhan" },
+      { "id": "kxi-8", "name": "Paresh Solanki" },
+      { "id": "kxi-9", "name": "Kiran Parmar" },
+      { "id": "kxi-10", "name": "Harshad Gohil" },
+      { "id": "kxi-11", "name": "Dipak Vora" }
+    ]
+  },
+  {
+    "id": "nomads-xi",
+    "name": "Nomads XI",
+    "players": [
+      { "id": "nxi-1", "name": "Wessy Madhevere" },
+      { "id": "nxi-2", "name": "Tadiwa Marumani" },
+      { "id": "nxi-3", "name": "Siddharth Rao" },
+      { "id": "nxi-4", "name": "Karan Kapoor" },
+      { "id": "nxi-5", "name": "Mohit Sharma" },
+      { "id": "nxi-6", "name": "Vivek Suri" },
+      { "id": "nxi-7", "name": "Ankit Jain" },
+      { "id": "nxi-8", "name": "Tarun Bhatia" },
+      { "id": "nxi-9", "name": "Gaurav Malhotra" },
+      { "id": "nxi-10", "name": "Deepak Yadav" },
+      { "id": "nxi-11", "name": "Sandeep Chauhan" }
+    ]
+  }
+] 
